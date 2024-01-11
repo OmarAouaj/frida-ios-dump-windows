@@ -4,6 +4,7 @@ Same as AloneMonkey's frida-ios-dump, just modified some lines in the Python scr
 ## Requirements
 - same as frida-ios-dump requirements.txt file content.
 - for iproxy step mentioned in AloneMonkey's repo, you can use iFred09's iproxy.exe (https://github.com/iFred09/libimobiledevice-windows).
+- make sure that you have 7z binary location in your PATH variable.
 
 ## Notes
 - needs to be run as Administrator (as I had some permission problems when running it as unprivileged user).
